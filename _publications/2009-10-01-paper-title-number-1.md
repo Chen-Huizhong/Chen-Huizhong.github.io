@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "The Impact of Archipelagic Topography on Air-Sea Interaction and Typhoon Intensity in the South China Sea"
 collection: publications
-category: manuscripts
+category: manuscripts # manuscripts/conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
