@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Huizhong Chen(陈会众)"
-  pronouns         : "he/him"  
-  bio              : "A young researcher of oceanography"
+  pronouns         : # "he/him"  
+  bio              : "hzchen0035@qq.com"
   location         : "Guangdong, China"
   employer         : "SCSIO, CAS"
   uri              : # URL
