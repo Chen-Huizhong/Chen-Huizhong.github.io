@@ -12,7 +12,7 @@ Education
 =========
 
 * M.Sc. in Physical Oceanography.
-  * South China Sea Institute of Oceanology, Chinese Academy of Science, 2023-2026 (expected)
+  * South China Sea Institute of Oceanology, Chinese Academy of Sciences, 2023-2026 (expected)
 * B.Sc. in Marine Science.
   * Zhejiang University, 2019-2023
   * GPA: 3.86/4.0 (87.95/100)
@@ -41,14 +41,15 @@ Coding Skills
   * Data analysis & Visualization
 * MATLAB
   * Data analysis & Visualization
-* FORTRAN
-  * Basic commands
+* FORTRAN, C/C++
+  * Basic programming
 
 Language Skills
 ===============
 
-* Chinese (mother tongue)
+* Chinese
 * English (IETLS 7.0)
+  * Listening: 7.5, Reading: 8.5, Writing: 6.0, Speaking: 5.5
 
 Publications
 ============
