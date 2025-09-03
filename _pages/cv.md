@@ -74,10 +74,10 @@ Publications
 ======
 * Currently signed in to 43 different slack teams -->
 
-Awards
-======
+Honors and Awards
+=================
 
 * *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2023
 * *Zhengjiang University Scholarship - First Prize*, Zhejiang University, 2022
 * *Outstanding Student*, Zhejiang University, 2022
-* *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021 
+* *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021
