@@ -28,5 +28,5 @@ My research Interest includes:
 I have experience in **typhoon simulation using air-sea coupled model**, and I am eager to further develop my skills in numerical modeling and computational methods applied to oceanographic processes.
 
 >
-> <strong><font size=5>⚓️"Exploring ocean through numerical modeling and computation."</font></strong>
+> <strong><font size=5>"Decoding ocean processes through the lens of numerical modeling."⚓️</font></strong>
 >
