@@ -14,9 +14,18 @@ redirect_from:
 
 * *M.Sc.* in ***Physical Oceanography***.
   * South China Sea Institute of Oceanology, Chinese Academy of Sciences, 2023-2026 (expected)
+  * Supervisor: [Yineng Li](https://www.researchgate.net/profile/Yineng-Li)
 * *B.Sc.* in ***Marine Science***.
   * Zhejiang University, 2019-2023
   * GPA: 3.86/4.0 (87.95/100)
+  * Supervisor: [Shuang Li](https://person.zju.edu.cn/en/lishuang#0)
+
+## Honors and Awards
+
+* *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2023
+* *Zhengjiang University Scholarship - First Prize*, Zhejiang University, 2022
+* *Outstanding Student*, Zhejiang University, 2022
+* *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021
 
 <!-- Work experience
 ======
@@ -39,8 +48,8 @@ redirect_from:
 
 * Python
 * MATLAB
-* FORTRAN, C/C++
-  * Basic programming
+* FORTRAN, C/C++ (at a beginner/intermediate level)
+
 
 ## Language Skills
 
@@ -70,10 +79,3 @@ redirect_from:
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-
-## Honors and Awards
-
-* *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2023
-* *Zhengjiang University Scholarship - First Prize*, Zhejiang University, 2022
-* *Outstanding Student*, Zhejiang University, 2022
-* *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021
