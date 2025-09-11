@@ -13,7 +13,7 @@ redirect_from:
 
 🎓 I am a 3rd-year master’s student at the South China Sea Institute of Oceanology, Chinese Academy of Sciences, currently completing my master’s research, which I expect to finish by summer 2026.
 
-📚 After earning my master’s degree, I am aiming to pursue a PhD in Oceanography, focusing on ocean modelling or relative topics.
+📚 After earning my master’s degree, I am aiming to pursue a PhD in Oceanography, focusing on ocean modelling or relevant topics.
 
 ----
 My research Interest includes:
