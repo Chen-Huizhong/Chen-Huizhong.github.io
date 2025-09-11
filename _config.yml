@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Chen Huizhong"
+title                    : "Huizhong Chen"
 title_separator          : "-"
-name                     : &name "Chen Huizhong"
+name                     : &name "Huizhong Chen"
 description              : &description "personal description"
 url                      : https://chen-huizhong.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huizhong Chen(陈会众)"
-  pronouns         : # "he/him"  
+  name             : "Huizhong Chen (陈会众)"
+  pronouns         : # "he/him"
   bio              : "hzchen0035@qq.com"
   location         : "Guangdong, China"
   employer         : "SCSIO, CAS"
