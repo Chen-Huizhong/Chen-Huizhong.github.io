@@ -6,16 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there. 👋Welcome to my personal homepage!
 
-> This website is still under construction.
+----
 
-I'm a third-year postgraduate student from South China Sea Institute of Oceanography, Chinese Academy of Science.
-And I'm dealing with my master degree here and now.
+👋 Hi there — welcome to my personal homepage!
 
+🎓 I am a 3rd-year master’s student at the South China Sea Institute of Oceanology, Chinese Academy of Sciences, currently completing my master’s research, which I expect to finish by summer 2026.
+
+📚 After earning my master’s degree, I am aiming to pursue a PhD in Oceanography, focusing on ocean modelling or relative topics.
+
+----
 My research Interest includes:
+- Physical Oceanography
+- Tropical Cyclone Dynamics
+- Air-sea Interaction
+- Ocean Modeling
+- High-Performance Computing (at a beginner/intermediate level)
 
-- Physical oceanography
-- Tropical cyclone
-- Ocean modelling
-- High-performance computing
+----
+
+I have experience in **typhoon simulation using air-sea coupled model**, and I am eager to further develop my skills in numerical modeling and computational methods applied to oceanographic processes.
+
+>
+> <strong><font size=5>⚓️"Exploring ocean through numerical modeling and computation."</font></strong>
+>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,12 +8,13 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
-=========
+---------
 
-* M.Sc. in Physical Oceanography.
+## Education
+
+* *M.Sc.* in ***Physical Oceanography***.
   * South China Sea Institute of Oceanology, Chinese Academy of Sciences, 2023-2026 (expected)
-* B.Sc. in Marine Science.
+* *B.Sc.* in ***Marine Science***.
   * Zhejiang University, 2019-2023
   * GPA: 3.86/4.0 (87.95/100)
 
@@ -34,29 +35,25 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
 
-Coding Skills
-=============
+## Coding Skills
 
 * Python
-  * Data analysis & Visualization
 * MATLAB
-  * Data analysis & Visualization
 * FORTRAN, C/C++
   * Basic programming
 
-Language Skills
-===============
+## Language Skills
 
 * Chinese
-* English (IETLS 7.0)
+* English (IETLS: 7.0)
   * Listening: 7.5, Reading: 8.5, Writing: 6.0, Speaking: 5.5
 
-Publications
+<!-- Publications
 ============
 
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <!-- Talks
 ======
@@ -74,8 +71,7 @@ Publications
 ======
 * Currently signed in to 43 different slack teams -->
 
-Honors and Awards
-=================
+## Honors and Awards
 
 * *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2023
 * *Zhengjiang University Scholarship - First Prize*, Zhejiang University, 2022
