@@ -1,12 +1,16 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+For more information, please download my [CV (PDF)]({{ site.baseurl }}/files/resume.pdf).
+
+Here is some basic information.
 
 ---------
 
@@ -27,22 +31,10 @@ redirect_from:
 * *Outstanding Student*, Zhejiang University, 2022
 * *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021
 
-<!-- Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Please check my CV (PDF). 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
 
 ## Coding Skills
 
@@ -53,7 +45,7 @@ redirect_from:
 
 ## Language Skills
 
-* Chinese
+* Chinese (Mandarin, native speaker)
 * English (IETLS: 7.0)
   * Listening: 7.5, Reading: 8.5, Writing: 6.0, Speaking: 5.5
 
