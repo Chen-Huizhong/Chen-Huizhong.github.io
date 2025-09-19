@@ -31,10 +31,6 @@ Here is some basic information.
 * *Outstanding Student*, Zhejiang University, 2022
 * *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021
 
-## Research experience
-
-Please check my CV (PDF). 
-
 
 ## Coding Skills
 
