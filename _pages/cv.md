@@ -30,6 +30,7 @@ Here is some basic information.
 * *Zhengjiang University Scholarship - First Prize*, Zhejiang University, 2022
 * *Outstanding Student*, Zhejiang University, 2022
 * *Zhengjiang University Scholarship - Third Prize*, Zhejiang University, 2021
+* And so on
 
 
 ## Coding Skills
