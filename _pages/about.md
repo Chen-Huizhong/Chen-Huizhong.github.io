@@ -9,6 +9,8 @@ redirect_from:
 
 ----
 
+Here is my [CV]({{ site.baseurl }}/files/resume.pdf).
+
 👋 Hi there — welcome to my personal homepage!
 
 🎓 I am a 3rd-year master’s student at the South China Sea Institute of Oceanology, Chinese Academy of Sciences, currently completing my master’s research, which I expect to finish by summer 2026.

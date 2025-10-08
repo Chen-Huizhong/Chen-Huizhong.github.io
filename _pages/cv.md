@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-For more information, please download my [CV (PDF)]({{ site.baseurl }}/files/resume.pdf).
+For more information, please download my [CV]({{ site.baseurl }}/files/resume.pdf).
 
 Here is some basic information.
 
