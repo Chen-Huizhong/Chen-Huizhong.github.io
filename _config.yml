@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Huizhong Chen "
   pronouns         : "陈会众"
-  bio              : "hzchen0035@qq.com"
+  bio              : # info
   location         : "Guangdong, China"
   employer         : "SCSIO, CAS"
   uri              : # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # "https://orcid.org/0009-0000-3197-9109"
+  orcid            : "https://orcid.org/0009-0000-3197-9109"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -92,7 +92,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "disable" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
